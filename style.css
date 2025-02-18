@@ -26,3 +26,38 @@ a{
     text-decoration: none;
     color: grey;
 }
+.hero{
+    color: white;
+    border: solid red 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: #3882f6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: 16px;
+    width: 200px;
+    border: solid red 2px;
+}
+img{
+    width: 500;
+    height: 300px;
+    border: solid red 2px;
+    margin-left: 10px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    
+}
+span{
+    font-size: xx-large;
+    font-weight: 700;
+}
+p{
+    color: lightgrey;
+}
